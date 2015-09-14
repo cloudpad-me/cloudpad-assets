@@ -1,3 +1,7 @@
 .login-box.login-box {
     background: none;
 }
+ 
+element.style {
+    background-image: none;
+}
