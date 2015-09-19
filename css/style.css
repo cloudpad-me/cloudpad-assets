@@ -2,6 +2,6 @@
     background: none;
 }
  
-element.style {
+#top.account-login ng-scope {
     background-image: none !important;
 }
