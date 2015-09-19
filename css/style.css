@@ -2,6 +2,6 @@
     background: none;
 }
  
-#top.account-login {
+#top.account-login.ng-scope {
     background-image: none !important;
 }
