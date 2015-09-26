@@ -1,3 +1,7 @@
 .login-box.login-box {
     background: none;
 }
+
+#top.account-login {
+    background-repeat: repeat;
+}
