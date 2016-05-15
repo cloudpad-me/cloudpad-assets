@@ -1,3 +1,6 @@
 .login-box.login-box {
     background: none;
 }
+#wrapper{
+    background-size: contain;
+}
